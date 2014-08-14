@@ -1,6 +1,6 @@
 require 'helper'
 
-class TestMlbtk < MiniTest::Unit::TestCase
+class TestMlbtk < MiniTest::Test
   def test_something_for_real
     flunk "hey buddy, you should probably rename this file and start testing for real"
   end
